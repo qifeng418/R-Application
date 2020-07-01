@@ -1,1 +1,1 @@
-Read Me
+R Application for text mining
